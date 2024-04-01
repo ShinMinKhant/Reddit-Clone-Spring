@@ -5,6 +5,11 @@ A reddit clone created with Spring Boot, Spring Security with JPA Authentication
 
 Reference: freeCodeCamp
 
+# Functionalities
+
+- AA
+- BB
+
 # Demo Image
 
 Home Page
