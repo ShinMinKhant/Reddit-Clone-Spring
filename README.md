@@ -1,11 +1,9 @@
 # Reddit-Clone-Spring
 Reddit Clone (Backend)
 
-A reddit clone created with Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, and Spring MVC.
+A reddit clone created with Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, and Spring MVC. The frontend is built using Angular and you can find the source code here:
 
 Reference: freeCodeCamp
-
-The frontend is built using Angular and you can find the source code here:
 
 # Demo Image
 
