@@ -7,8 +7,12 @@ Reference: freeCodeCamp
 
 # Functionalities
 
-- AA
-- BB
+- User Authentication
+- Subreddit
+- Post
+- Comment
+- Vote
+- Notification
 
 # Demo Image
 
