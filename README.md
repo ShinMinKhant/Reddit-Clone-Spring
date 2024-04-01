@@ -13,6 +13,7 @@ Reference: freeCodeCamp
 - Comment
 - Vote
 - Notification
+- User Profile
 
 # Demo Image
 
